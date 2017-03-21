@@ -1,0 +1,37 @@
+    div.sidebar-social-sharing a {
+        background-color: #45668e;
+        border-radius: 20px;
+        color: #ffffff;
+        display: inline-block;
+        width: 32px;
+        height: 30px;
+        margin: 10px 10px 0;
+        overflow: hidden;
+        padding: 10px 0 0 8px;
+        text-decoration: none;
+
+    }
+    div.sidebar-social-sharing a.vk {
+        background-color: #48729e;
+    }
+    div.sidebar-social-sharing a.vk:hover {
+        background-color: #45668e;
+    }
+    div.sidebar-social-sharing a.odnoklassniki {
+        background-color: #ed812b;
+    }
+    div.sidebar-social-sharing a.odnoklassniki:hover {
+        background-color: #d36812;
+    }
+    div.sidebar-social-sharing a.fb {
+        background-color: #3b5998;
+    }
+    div.sidebar-social-sharing a.fb:hover {
+        background-color: #2d4373;
+    }
+    div.sidebar-social-sharing a.bookmark {
+        background-color: #4fa933;
+    }
+    div.sidebar-social-sharing a.bookmark:hover {
+        background-color: #398122;
+    }
